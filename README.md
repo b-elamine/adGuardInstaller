@@ -14,5 +14,3 @@ This script automates the uninstallation and reinstallation of AdGuard Home on U
 - `wget` must be installed. You can install it using:
   ```bash
   sudo apt update && sudo apt install wget
-# adGuardInstaller
-# adGuardInstaller
